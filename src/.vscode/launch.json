@@ -1,0 +1,308 @@
+{
+    // IntelliSense を使用して利用可能な属性を学べます。
+    // 既存の属性の説明をホバーして表示します。
+    // 詳細情報は次を確認してください: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AndConditionx<src_7bfe49bf>",
+            "request": "launch",
+            "mainClass": "AndConditionx",
+            "projectName": "src_7bfe49bf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ArrayString<src_7bfe49bf>",
+            "request": "launch",
+            "mainClass": "ArrayString",
+            "projectName": "src_7bfe49bf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Booleanz<src_7bfe49bf>",
+            "request": "launch",
+            "mainClass": "Booleanz",
+            "projectName": "src_7bfe49bf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Execalc<src_7bfe49bf>",
+            "request": "launch",
+            "mainClass": "Execalc",
+            "projectName": "src_7bfe49bf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IntPyramid<src_7bfe49bf>",
+            "request": "launch",
+            "mainClass": "IntPyramid",
+            "projectName": "src_7bfe49bf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Kaizyo<src_7bfe49bf>",
+            "request": "launch",
+            "mainClass": "Kaizyo",
+            "projectName": "src_7bfe49bf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Kuku_break<src_7bfe49bf>",
+            "request": "launch",
+            "mainClass": "Kuku_break",
+            "projectName": "src_7bfe49bf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Kuku_continue<src_7bfe49bf>",
+            "request": "launch",
+            "mainClass": "Kuku_continue",
+            "projectName": "src_7bfe49bf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-KukudoWhile<src_7bfe49bf>",
+            "request": "launch",
+            "mainClass": "KukudoWhile",
+            "projectName": "src_7bfe49bf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Kukux<src_7bfe49bf>",
+            "request": "launch",
+            "mainClass": "Kukux",
+            "projectName": "src_7bfe49bf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Kukuz1z<src_7bfe49bf>",
+            "request": "launch",
+            "mainClass": "Kukuz1z",
+            "projectName": "src_7bfe49bf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Kukuz2<src_7bfe49bf>",
+            "request": "launch",
+            "mainClass": "Kukuz2",
+            "projectName": "src_7bfe49bf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Login<src_7bfe49bf>",
+            "request": "launch",
+            "mainClass": "Login",
+            "projectName": "src_7bfe49bf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Nestloopy<src_7bfe49bf>",
+            "request": "launch",
+            "mainClass": "Nestloopy",
+            "projectName": "src_7bfe49bf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NotConditionx<src_7bfe49bf>",
+            "request": "launch",
+            "mainClass": "NotConditionx",
+            "projectName": "src_7bfe49bf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-OrConditionX<src_7bfe49bf>",
+            "request": "launch",
+            "mainClass": "OrConditionX",
+            "projectName": "src_7bfe49bf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Rei6_8_1_init<src_7bfe49bf>",
+            "request": "launch",
+            "mainClass": "Rei6_8_1_init",
+            "projectName": "src_7bfe49bf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Rei6_8_2y<src_7bfe49bf>",
+            "request": "launch",
+            "mainClass": "Rei6_8_2y",
+            "projectName": "src_7bfe49bf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Rei8_3_1w<src_7bfe49bf>",
+            "request": "launch",
+            "mainClass": "Rei8_3_1w",
+            "projectName": "src_7bfe49bf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Rei8_3_2<src_7bfe49bf>",
+            "request": "launch",
+            "mainClass": "Rei8_3_2",
+            "projectName": "src_7bfe49bf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Rei8_HairetuAvg<src_7bfe49bf>",
+            "request": "launch",
+            "mainClass": "Rei8_HairetuAvg",
+            "projectName": "src_7bfe49bf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Switchy<src_7bfe49bf>",
+            "request": "launch",
+            "mainClass": "Switchy",
+            "projectName": "src_7bfe49bf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Switchz<src_7bfe49bf>",
+            "request": "launch",
+            "mainClass": "Switchz",
+            "projectName": "src_7bfe49bf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Timer<src_7bfe49bf>",
+            "request": "launch",
+            "mainClass": "Timer",
+            "projectName": "src_7bfe49bf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Total02x<src_7bfe49bf>",
+            "request": "launch",
+            "mainClass": "Total02x",
+            "projectName": "src_7bfe49bf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Uranaix<src_7bfe49bf>",
+            "request": "launch",
+            "mainClass": "Uranaix",
+            "projectName": "src_7bfe49bf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-intGyakuPyramid<src_7bfe49bf>",
+            "request": "launch",
+            "mainClass": "intGyakuPyramid",
+            "projectName": "src_7bfe49bf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-inttateyokoGyakuPyramid<src_7bfe49bf>",
+            "request": "launch",
+            "mainClass": "inttateyokoGyakuPyramid",
+            "projectName": "src_7bfe49bf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-intyokoGyakuPyramid<src_7bfe49bf>",
+            "request": "launch",
+            "mainClass": "intyokoGyakuPyramid",
+            "projectName": "src_7bfe49bf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-kakunin<src_7bfe49bf>",
+            "request": "launch",
+            "mainClass": "kakunin",
+            "projectName": "src_7bfe49bf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-kghantei<src_7bfe49bf>",
+            "request": "launch",
+            "mainClass": "kghantei",
+            "projectName": "src_7bfe49bf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Dice<src_7bfe49bf>",
+            "request": "launch",
+            "mainClass": "mon01.Dice",
+            "projectName": "src_7bfe49bf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Omikuji<src_7bfe49bf>",
+            "request": "launch",
+            "mainClass": "mon02.Omikuji",
+            "projectName": "src_7bfe49bf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BubbleSort<src_7bfe49bf>",
+            "request": "launch",
+            "mainClass": "mon03.BubbleSort",
+            "projectName": "src_7bfe49bf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LinearSearch<src_7bfe49bf>",
+            "request": "launch",
+            "mainClass": "mon04.LinearSearch",
+            "projectName": "src_7bfe49bf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Method<src_7bfe49bf>",
+            "request": "launch",
+            "mainClass": "mon06.Method",
+            "projectName": "src_7bfe49bf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Method2<src_7bfe49bf>",
+            "request": "launch",
+            "mainClass": "mon07.Method2",
+            "projectName": "src_7bfe49bf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Convert<src_7bfe49bf>",
+            "request": "launch",
+            "mainClass": "mon08.Convert",
+            "projectName": "src_7bfe49bf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FreqDist<src_7bfe49bf>",
+            "request": "launch",
+            "mainClass": "mon08.mon05.FreqDist",
+            "projectName": "src_7bfe49bf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EvenOdd<src_7bfe49bf>",
+            "request": "launch",
+            "mainClass": "mon09.EvenOdd",
+            "projectName": "src_7bfe49bf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LeapYear<src_7bfe49bf>",
+            "request": "launch",
+            "mainClass": "mon10.LeapYear",
+            "projectName": "src_7bfe49bf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-nikonikofu<src_7bfe49bf>",
+            "request": "launch",
+            "mainClass": "nikonikofu",
+            "projectName": "src_7bfe49bf"
+        }
+    ]
+}

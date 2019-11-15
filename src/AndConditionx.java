@@ -3,7 +3,6 @@ public class AndConditionx {
 	public static void main(String args[]) {
 		final int USUALLY_CHARGE = 2000;
 		final String MALE = "male";
-		final String youbi = "驥第屆譌･";
 		int charge = USUALLY_CHARGE;
 
 		int nenrei = 17;

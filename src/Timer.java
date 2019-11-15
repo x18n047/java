@@ -12,15 +12,21 @@ public class Timer {
 	int ss = Integer.parseInt(br.readLine());
 	int ss_s = ss;	
 	
-		while(ss!=0) {
-			while (ss >= 6399) {
-				ss -= 3600;
+	
+			while (ss >= 3600) {
+				if((ss -= 3600) >= 0){
 				hh++;
-			}while  (ss >= 59) {
-				ss -= 60;
+				}
+			}while  (ss >= 60) {
+				if((ss -= 60) >= 0){
 				mm ++;
-			}
+				}
+				}
+		
+		if(ss_s == 0) {
+			System.out.println("処理を終了します。");
 		}
-		System.out.println(ss_s + "秒は、" + hh + "時間" + mm + "分" + ss + "秒です。");
+		else{System.out.println(ss_s + "秒は、" + hh + "時間" + mm + "分" + ss + "秒です。");
+		}
 	}
 }
