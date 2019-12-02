@@ -1,0 +1,308 @@
+{
+    // IntelliSense を使用して利用可能な属性を学べます。
+    // 既存の属性の説明をホバーして表示します。
+    // 詳細情報は次を確認してください: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AndConditionx<Java02_Kadai>",
+            "request": "launch",
+            "mainClass": "AndConditionx",
+            "projectName": "Java02_Kadai"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ArrayString<Java02_Kadai>",
+            "request": "launch",
+            "mainClass": "ArrayString",
+            "projectName": "Java02_Kadai"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Booleanz<Java02_Kadai>",
+            "request": "launch",
+            "mainClass": "Booleanz",
+            "projectName": "Java02_Kadai"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Execalc<Java02_Kadai>",
+            "request": "launch",
+            "mainClass": "Execalc",
+            "projectName": "Java02_Kadai"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IntPyramid<Java02_Kadai>",
+            "request": "launch",
+            "mainClass": "IntPyramid",
+            "projectName": "Java02_Kadai"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Kaizyo<Java02_Kadai>",
+            "request": "launch",
+            "mainClass": "Kaizyo",
+            "projectName": "Java02_Kadai"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Kuku_break<Java02_Kadai>",
+            "request": "launch",
+            "mainClass": "Kuku_break",
+            "projectName": "Java02_Kadai"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Kuku_continue<Java02_Kadai>",
+            "request": "launch",
+            "mainClass": "Kuku_continue",
+            "projectName": "Java02_Kadai"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-KukudoWhile<Java02_Kadai>",
+            "request": "launch",
+            "mainClass": "KukudoWhile",
+            "projectName": "Java02_Kadai"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Kukux<Java02_Kadai>",
+            "request": "launch",
+            "mainClass": "Kukux",
+            "projectName": "Java02_Kadai"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Kukuz1z<Java02_Kadai>",
+            "request": "launch",
+            "mainClass": "Kukuz1z",
+            "projectName": "Java02_Kadai"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Kukuz2<Java02_Kadai>",
+            "request": "launch",
+            "mainClass": "Kukuz2",
+            "projectName": "Java02_Kadai"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Login<Java02_Kadai>",
+            "request": "launch",
+            "mainClass": "Login",
+            "projectName": "Java02_Kadai"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Nestloopy<Java02_Kadai>",
+            "request": "launch",
+            "mainClass": "Nestloopy",
+            "projectName": "Java02_Kadai"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NotConditionx<Java02_Kadai>",
+            "request": "launch",
+            "mainClass": "NotConditionx",
+            "projectName": "Java02_Kadai"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-OrConditionX<Java02_Kadai>",
+            "request": "launch",
+            "mainClass": "OrConditionX",
+            "projectName": "Java02_Kadai"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Rei6_8_1_init<Java02_Kadai>",
+            "request": "launch",
+            "mainClass": "Rei6_8_1_init",
+            "projectName": "Java02_Kadai"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Rei6_8_2y<Java02_Kadai>",
+            "request": "launch",
+            "mainClass": "Rei6_8_2y",
+            "projectName": "Java02_Kadai"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Rei8_3_1w<Java02_Kadai>",
+            "request": "launch",
+            "mainClass": "Rei8_3_1w",
+            "projectName": "Java02_Kadai"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Rei8_3_2<Java02_Kadai>",
+            "request": "launch",
+            "mainClass": "Rei8_3_2",
+            "projectName": "Java02_Kadai"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Rei8_HairetuAvg<Java02_Kadai>",
+            "request": "launch",
+            "mainClass": "Rei8_HairetuAvg",
+            "projectName": "Java02_Kadai"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Switchy<Java02_Kadai>",
+            "request": "launch",
+            "mainClass": "Switchy",
+            "projectName": "Java02_Kadai"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Switchz<Java02_Kadai>",
+            "request": "launch",
+            "mainClass": "Switchz",
+            "projectName": "Java02_Kadai"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Timer<Java02_Kadai>",
+            "request": "launch",
+            "mainClass": "Timer",
+            "projectName": "Java02_Kadai"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Total02x<Java02_Kadai>",
+            "request": "launch",
+            "mainClass": "Total02x",
+            "projectName": "Java02_Kadai"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Uranaix<Java02_Kadai>",
+            "request": "launch",
+            "mainClass": "Uranaix",
+            "projectName": "Java02_Kadai"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-intGyakuPyramid<Java02_Kadai>",
+            "request": "launch",
+            "mainClass": "intGyakuPyramid",
+            "projectName": "Java02_Kadai"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-inttateyokoGyakuPyramid<Java02_Kadai>",
+            "request": "launch",
+            "mainClass": "inttateyokoGyakuPyramid",
+            "projectName": "Java02_Kadai"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-intyokoGyakuPyramid<Java02_Kadai>",
+            "request": "launch",
+            "mainClass": "intyokoGyakuPyramid",
+            "projectName": "Java02_Kadai"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-kakunin<Java02_Kadai>",
+            "request": "launch",
+            "mainClass": "kakunin",
+            "projectName": "Java02_Kadai"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-kghantei<Java02_Kadai>",
+            "request": "launch",
+            "mainClass": "kghantei",
+            "projectName": "Java02_Kadai"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Dice<Java02_Kadai>",
+            "request": "launch",
+            "mainClass": "mon01.Dice",
+            "projectName": "Java02_Kadai"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Omikuji<Java02_Kadai>",
+            "request": "launch",
+            "mainClass": "mon02.Omikuji",
+            "projectName": "Java02_Kadai"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BubbleSort<Java02_Kadai>",
+            "request": "launch",
+            "mainClass": "mon03.BubbleSort",
+            "projectName": "Java02_Kadai"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LinearSearch<Java02_Kadai>",
+            "request": "launch",
+            "mainClass": "mon04.LinearSearch",
+            "projectName": "Java02_Kadai"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Method<Java02_Kadai>",
+            "request": "launch",
+            "mainClass": "mon06.Method",
+            "projectName": "Java02_Kadai"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Method2<Java02_Kadai>",
+            "request": "launch",
+            "mainClass": "mon07.Method2",
+            "projectName": "Java02_Kadai"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Convert<Java02_Kadai>",
+            "request": "launch",
+            "mainClass": "mon08.Convert",
+            "projectName": "Java02_Kadai"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FreqDist<Java02_Kadai>",
+            "request": "launch",
+            "mainClass": "mon08.mon05.FreqDist",
+            "projectName": "Java02_Kadai"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EvenOdd<Java02_Kadai>",
+            "request": "launch",
+            "mainClass": "mon09.EvenOdd",
+            "projectName": "Java02_Kadai"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LeapYear<Java02_Kadai>",
+            "request": "launch",
+            "mainClass": "mon10.LeapYear",
+            "projectName": "Java02_Kadai"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-nikonikofu<Java02_Kadai>",
+            "request": "launch",
+            "mainClass": "nikonikofu",
+            "projectName": "Java02_Kadai"
+        }
+    ]
+}
