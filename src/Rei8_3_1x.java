@@ -10,51 +10,23 @@ public class Rei8_3_1x {
         System.out.print("input a2 < ");
         int a2 = Integer.parseInt(br.readLine());
 
-        Calc cl = new Calc();
+        Calc (a1,a2);
 
-        Calc cl2 = cl;
-        int tasu = cl2.add(a1, a2);
-        System.out.println("合計=" + tasu);
+    }
 
-        int hiku = cl2.min(a1, a2);
-        System.out.println("引き算=" + hiku);
-
-        int kake = cl2.mul(a1, a2);
-        System.out.println("掛け算=" + kake);
-
-        int waru = cl2.dev(a1, a2);
-        System.out.println("割り算=" + waru);
-
-        int amari = cl2.rem(a1, a2);
-        System.out.println("剰余算=" + amari);
-
+	private static void Calc(int a1, int a2) {
+    System.out.println("足し算：" + a1 + "+" + a2 + "=" + (a1+a2));
+    System.out.println("引き算：" + a1 + "-" + a2 + "=" + (a1-a2));
+    System.out.println("掛け算：" + a1 + "*" + a2 + "=" + (a1*a2));
+    System.out.println("割り算：" + a1 + "/" + a2 + "=" + (a1/a2));
+    System.out.println("剰除算：" + a1 + "%" + a2 + "=" + (a1%a2));
     }
 }
 
-class Calc {
-    public int add(int b1, int b2){
-
-        int tasu = b1 + b2;
-        return tasu;
-    }
-
-    public int min(int b1, int b2){
-        int hiku = b1 - b2;
-        return hiku;
-    }
-
-    public int mul(int b1, int b2){
-        int kake = b1 * b2;
-        return kake;
-    }
-
-    public int dev(int b1, int b2){
-        int waru = b1 / b2;
-        return waru;
-    }
-
-    public int rem(int b1, int b2){
-        int amari = b1 % b2;
-        return amari;
-    }
-}
+// input a1 < 6
+// input a2 < 6
+// 足し算：6+6=12
+// 引き算：6-6=0
+// 掛け算：6*6=36
+// 割り算：6/6=1
+// 剰除算：6%6=0
